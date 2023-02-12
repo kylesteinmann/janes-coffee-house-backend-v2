@@ -5,4 +5,3 @@ require_relative "config/application"
 
 Rails.application.load_tasks
 
-task :build => 'assets:precompile'
